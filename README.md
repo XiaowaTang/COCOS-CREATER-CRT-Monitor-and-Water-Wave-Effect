@@ -12,7 +12,8 @@ A demo of CRT monitor + water wave effect
 
 ### CRT + Water Wave
 
-![](C:\Users\harry\OneDrive\桌面\圖片\螢幕擷取畫面\螢幕擷取畫面 (1055).png)
+![image](https://github.com/XiaowaTang/COCOS-CREATER-CRT-Monitor-and-Water-Wave-Effect/blob/main/CRTWaterWaveExample.png)
+
 
 
 
